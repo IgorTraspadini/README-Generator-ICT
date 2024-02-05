@@ -1,6 +1,7 @@
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 # Title
+
 ## Description
 Description
 
@@ -29,5 +30,5 @@ Contributing
 Tests
 
 ## Questions
-
+[IgorTraspadini](https://github.com/IgorTraspadini)
 

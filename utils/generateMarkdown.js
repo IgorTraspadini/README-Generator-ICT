@@ -32,7 +32,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-
+[${data.gituser}](https://github.com/${data.gituser})
 
 `;
 }

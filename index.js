@@ -58,7 +58,14 @@ const questions = [
       'Mozilla Public License 2.0','The Unlicense'],
     required: true,
     default: 'MIT License'
-  }
+  },
+  {
+  type: 'input',
+  message: "Provide the GitHub username.",
+  name: 'gituser',
+  required: true,
+  default: '...'
+}  
 ];
 
 // function to write README file
