@@ -46,6 +46,14 @@ const questions = [
     name: 'tests',
     required: true,
     default: 'Tests'
+  },
+  {
+    type: 'list',
+    message: "Provide the project license.",
+    name: 'license',
+    choices: ['Apache 2.0 License','GNU GPL v3','MIT License'], 
+    required: true,
+    default: 'MIT License'
   }
 ];
 
