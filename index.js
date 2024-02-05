@@ -5,6 +5,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
+  // Project title
   {
     type: 'input',
     message: "What's the project title?",
@@ -12,6 +13,7 @@ const questions = [
     required: true,
     default: 'Title'
   },
+  // Description
   {
     type: 'input',
     message: "Provide the project description.",
@@ -19,6 +21,7 @@ const questions = [
     required: true,
     default: 'Description'
   },
+  // Installation
   {
     type: 'input',
     message: "Provide the project installation.",
@@ -26,6 +29,7 @@ const questions = [
     required: true,
     default: 'Installation'
   },
+  // Usage
   {
     type: 'input',
     message: "Provide the project usage.",
@@ -33,6 +37,7 @@ const questions = [
     required: true,
     default: 'Usage'
   },
+  // Contributing
   {
     type: 'input',
     message: "Provide the project contributing.",
@@ -40,6 +45,7 @@ const questions = [
     required: true,
     default: 'Contributing'
   },
+  // Tests
   {
     type: 'input',
     message: "Provide the project tests.",
@@ -47,6 +53,7 @@ const questions = [
     required: true,
     default: 'Tests'
   },
+  // License
   {
     type: 'list',
     message: "Provide the project license.",
@@ -59,6 +66,7 @@ const questions = [
     required: true,
     default: 'MIT License'
   },
+  // Git User
   {
     type: 'input',
     message: "Provide the GitHub username.",
@@ -66,6 +74,7 @@ const questions = [
     required: true,
     default: '...'
   },
+  // Email
   {
     type: 'input',
     message: "Provide your email.",
@@ -91,6 +100,7 @@ function init() {
   inquirer
     .prompt(questions)
     .then((response) => writeToFile("README.md", response))
+    // catch error if occur and show on console
     .catch((error) => console.log(error))
 }
 

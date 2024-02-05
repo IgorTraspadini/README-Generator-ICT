@@ -31,5 +31,6 @@ Tests
 
 ## Questions
 [...](https://github.com/...)
-If you have any questions, please feel free to contact me at <b>igor@hjk.com</b>.
+<br>
+If you have any questions, please feel free to contact me at <b>igorchieppe@hotmail.com</b>.
 

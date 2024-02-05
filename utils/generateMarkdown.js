@@ -33,6 +33,7 @@ ${data.tests}
 
 ## Questions
 [${data.gituser}](https://github.com/${data.gituser})
+<br>
 If you have any questions, please feel free to contact me at <b>${data.email}</b>.
 
 `;
