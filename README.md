@@ -1,36 +1,38 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Profissional README generator
+# Professional README Generator
 
 ## Description
 You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+## Language
+- ES6
+- JavaScript
+- Node.js
+- inquirer package
 
-## Installation
-npm i, node index.js
+## Rum Project
+```bash
+# Clone the reposotiry 
+git clone https://github.com/IgorTraspadini/README-Generator-ICT.git
 
-## Usage
-node index.js
+# install the node's modules
+npm install
 
-## License
-MIT License
+# Run the project
+node index.html
+```
 
-## Contributing
-Igor Traspadini
+## Links
+- [README.md file sample]()
+- [Walkthrough Video]()
 
-## Tests
-Not yet
+## References 
+- [Node.js](https://nodejs.org/en)
+- [npm inquirer](https://www.npmjs.com/package/inquirer)
+- [ES6](https://www.w3schools.com/Js/js_es6.asp)
+- [MarkDown](https://www.markdownguide.org/)
 
-## Questions
-[IgorTraspadini](https://github.com/IgorTraspadini)
-<br>
-If you have any questions, please feel free to contact me at <b>igorchieppe@hotmail.com</b>.
+## Credits
+[edX - Bootcamp in Front-End Web Development](https://www.edx.org/course/skills-bootcamp-in-front-end-web-development?parent_component=new-on-edx&webview=false&campaign=Skills+Bootcamp+in+Front-End+Web+Development&source=edx&product_category=boot-camp&placement_url=https%3A%2F%2Fwww.edx.org%2F)
 
