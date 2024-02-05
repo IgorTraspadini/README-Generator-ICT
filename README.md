@@ -1,5 +1,5 @@
 
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Title
 
 ## Description
@@ -21,7 +21,7 @@ Installation
 Usage
 
 ## License
-
+MIT License
 
 ## Contributing
 Contributing
@@ -30,5 +30,6 @@ Contributing
 Tests
 
 ## Questions
-[IgorTraspadini](https://github.com/IgorTraspadini)
+[...](https://github.com/...)
+If you have any questions, please feel free to contact me at <b>igor@hjk.com</b>.
 

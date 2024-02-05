@@ -23,7 +23,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-
+${data.license}
 
 ## Contributing
 ${data.contributing}
@@ -33,10 +33,12 @@ ${data.tests}
 
 ## Questions
 [${data.gituser}](https://github.com/${data.gituser})
+If you have any questions, please feel free to contact me at <b>${data.email}</b>.
 
 `;
 }
 
+// function to render/return the license badge link. 
 function license_badge(license) {
   switch (license) {
     case 'MIT License':
