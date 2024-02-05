@@ -24,8 +24,8 @@ node index.html
 ```
 
 ## Links
-- [README.md file sample]()
-- [Walkthrough Video]()
+- [README.md file sample](https://github.com/IgorTraspadini/README-Generator-ICT/blob/main/README%20sample.md)
+- [Walkthrough Video](https://drive.google.com/file/d/1Io7Vi_ct7wCVtBBYWCWHwUbFww-Om9wH/view?usp=sharing)
 
 ## References 
 - [Node.js](https://nodejs.org/en)
